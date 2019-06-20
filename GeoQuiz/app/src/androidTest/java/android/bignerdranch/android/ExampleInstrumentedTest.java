@@ -1,4 +1,4 @@
-package android.bignerdranch.com;
+package com.bignerdranch.android;
 
 import android.content.Context;
 
